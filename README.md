@@ -22,7 +22,7 @@ This system utilizes Machine Learning techniques to predict Lung Cancer based 
 
 
 
-## Demo
+<!---## Demo
 
 
 
@@ -30,7 +30,7 @@ This system utilizes Machine Learning techniques to predict Lung Cancer based 
 
 
 
-![](demo1.gif)
+![](demo1.gif)-->
 
 
 ## Tech Stack
