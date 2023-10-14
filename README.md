@@ -18,7 +18,8 @@ This system utilizes Machine Learning techniques to predict Lung Cancer based 
 ## Quick look of Application
 
 
-![](Image%202.png)
+
+![](https://github.com/anishharam5/Lung-Cancer-Prediction/assets/38319227/e1705ac4-e368-470a-ae53-6549832646cb)
 
 
 
