@@ -12,6 +12,12 @@ body {
   z-index: 1000;
 }
 
+.containers{
+  background-color: rgb(102, 255, 255, 0.4);
+  border-radius: 10px;
+  padding: 20px 20px 10px 20px;
+  margin-bottom: 10px;
+}
 
 .img-fluid img {
   width: 1400px;
@@ -21,6 +27,7 @@ body {
 .mainbody {
   background-color: #ecb1d2;
   padding-top: 100px;
+  text-align: center;
 }
 
 .mainbody button {
