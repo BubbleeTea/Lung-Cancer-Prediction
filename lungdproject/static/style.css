@@ -1,10 +1,26 @@
-.bg-image img {
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ecb1d2;
+}
+
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+
+.img-fluid img {
   width: 1400px;
   height: auto;
 }
 
 .mainbody {
   background-color: #ecb1d2;
+  padding-top: 100px;
 }
 
 .mainbody button {
@@ -12,21 +28,31 @@
   color: #f8f6f9;
 }
 
-btn {
+.btn {
   text-align: center;
+  border-radius: 25px;
+  padding: 15px 40px;
+  font-size: 18px;
+  background-color: #ff5722;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+.btn-rounded:hover {
+  background-color: #ff7043;
 }
 
 .hinfo {
   font-family: Verdana, sans-serif;
   font-weight: bold;
   font-size: 20px;
-  color: #522f34;
+  color: #3f464a;
 }
 
 .info {
   font-family: Verdana, sans-serif;
-  font-size: 15px;
-  color: #522f34;
+  color: #5f6368;
+  font-size: 16px;
   text-align: justify;
 }
 
